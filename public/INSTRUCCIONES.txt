@@ -1,0 +1,21 @@
+========================================================================
+¡HOLA JEI! AQUÍ TIENES LAS INSTRUCCIONES PARA AGREGAR TU CANCIÓN PERSONALIZADA
+========================================================================
+
+Para que la invitación reproduzca la canción de fondo que creaste con Gemini:
+
+1. Renombra tu archivo de música descargado a:
+   cancion.mp3  (todo en minúsculas y con extensión .mp3)
+
+2. Sube el archivo a esta misma carpeta 'public' de tu proyecto:
+   En la interfaz de Google AI Studio, en el explorador de archivos de la izquierda,
+   puedes hacer clic derecho en la carpeta "public" o en el botón de subir archivos
+   y colocar tu archivo 'cancion.mp3' allí.
+
+3. ¡Y listo! La aplicación cargará automáticamente tu canción personalizada con Gemini.
+   Si por alguna razón la canción no se sube o no se encuentra, la aplicación tiene
+   una hermosa melodía romántica acústica de respaldo (fallback) para que nunca se
+   quede en silencio y todo funcione de manera perfecta.
+
+¡Espero que a Cami le encante esta increíble sorpresa en Sabaneta! ❤️🐾
+========================================================================
