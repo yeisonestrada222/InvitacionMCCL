@@ -59,7 +59,7 @@ export default function Countdown() {
           ¡Llegó el gran día! 🎉
         </h3>
         <p className="font-sans text-emerald-600/90 text-sm">
-          Hoy celebramos nuestros 17 meses juntos en nuestro rincón especial. ¡Prepárate para una noche inolvidable con Dante! 🐾💖
+          Hoy celebramos nuestros 4 años juntos en nuestro rincón especial. ¡Prepárate para una noche inolvidable con Dante! 🐾💖
         </p>
       </div>
     );
@@ -76,7 +76,7 @@ export default function Countdown() {
         </div>
         <div className="text-left">
           <h3 className="font-serif text-sm font-semibold text-slate-800">Cuenta Regresiva</h3>
-          <p className="font-sans text-[11px] text-slate-400">Para celebrar nuestros 17 meses</p>
+          <p className="font-sans text-[11px] text-slate-400">Para celebrar nuestros 4 años</p>
         </div>
       </div>
 

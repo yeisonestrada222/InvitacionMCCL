@@ -58,11 +58,11 @@ export default function App() {
               </motion.div>
 
               <h1 className="font-serif text-4xl sm:text-5xl font-bold text-slate-900 tracking-tight leading-none mb-3">
-                ¡Nuestros <span className="text-rose-500">17 Meses</span>,<br />Mi Amor! ❤️
+                ¡Nuestros <span className="text-rose-500">4 Años</span>,<br />Mi Amor! ❤️
               </h1>
 
               <p className="font-sans text-xs sm:text-sm text-slate-500 max-w-md mx-auto leading-relaxed">
-                Cada día a tu lado ha sido una aventura hermosa. Para celebrar nuestros 17 meses este jueves 2 de julio, he preparado un plan súper especial en familia (¡con Dante!). Revisa todos los detalles abajo... 👇
+                Cada día a tu lado ha sido una aventura hermosa. Para celebrar nuestros 4 años este jueves 2 de julio, he preparado un plan súper especial en familia (¡con Dante!). Revisa todos los detalles abajo... 👇
               </p>
             </header>
 
@@ -114,7 +114,7 @@ export default function App() {
                 <span>Para Cami</span>
               </div>
               <p className="font-sans text-[10px] text-slate-400">
-                Sabaneta, Antioquia • Jueves, 2 de Julio de 2026 • Celebrando nuestros 17 Meses 🐾❤️
+                Sabaneta, Antioquia • Jueves, 2 de Julio de 2026 • Celebrando nuestros 4 Años 🐾❤️
               </p>
             </footer>
           </motion.main>

@@ -4,7 +4,7 @@ import { Play, Pause, Music, Volume2, VolumeX, Sparkles, Heart } from "lucide-re
 
 const LYRICS = [
   { time: 0, text: "Desde el primer día, cambiaste mi mundo entero... 🌸" },
-  { time: 8, text: "17 meses de risas, de abrazos y de un amor sincero..." },
+  { time: 8, text: "4 años de risas, de abrazos y de un amor sincero..." },
   { time: 16, text: "Cada segundo a tu lado es un regalo que valoro más que nada..." },
   { time: 24, text: "Y este 2 de julio, quiero escribir contigo otra página dorada..." },
   { time: 32, text: "Gracias por ser mi paz, mi cómplice y mi alegría más grande..." },
@@ -139,7 +139,7 @@ export default function MusicPlayer() {
             <span>Sintonía de Amor</span>
           </div>
           <h4 className="font-serif text-lg font-medium tracking-tight text-white mb-0.5">
-            17 Meses de Historia Juntos
+            4 Años de Historia Juntos
           </h4>
           <p className="font-sans text-xs text-slate-400 mb-4">
             De: Jei para Cami 💖

@@ -38,7 +38,7 @@ const QUIZ_QUESTIONS: Question[] = [
     question: "¿Qué representa celebrar este 2 de Julio? 🌹",
     options: [
       "El día nacional de limpiar la nevera",
-      "17 meses del amor más bonito del mundo, risas infinitas y gratitud pura ✨",
+      "4 años del amor más bonito del mundo, risas infinitas y gratitud pura ✨",
       "Un día común y corriente",
     ],
     correctIndex: 1,

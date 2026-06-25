@@ -159,7 +159,7 @@ export default function RsvpSection() {
               <div className="flex justify-between items-center border-b border-white/20 pb-3 mb-3">
                 <div>
                   <span className="text-[9px] uppercase tracking-widest font-mono text-rose-100">Pase Especial</span>
-                  <h5 className="font-serif text-sm font-semibold">17 Meses Juntos</h5>
+                  <h5 className="font-serif text-sm font-semibold">4 Años Juntos</h5>
                 </div>
                 <span className="font-mono text-xs bg-rose-700/60 border border-rose-400/40 px-2 py-0.5 rounded text-rose-100 uppercase font-semibold">
                   VIP Paws 🐾
@@ -186,7 +186,7 @@ export default function RsvpSection() {
               </div>
 
               <div className="border-t border-dashed border-white/25 pt-3 mt-3 flex justify-between items-center text-[10px] font-mono text-rose-200 uppercase">
-                <span>Código: 17-MESES-AMOR</span>
+                <span>Código: 4-ANOS-AMOR</span>
                 <div className="flex items-center gap-0.5 text-rose-100">
                   <Footprints size={10} />
                   <span>Aprobado por Dante</span>

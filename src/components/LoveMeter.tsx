@@ -7,7 +7,7 @@ const LOVE_MESSAGES = [
   { threshold: 40, title: "¡Muchísimo! 🥰", desc: "¡Eso se siente de maravilla! Pero sé que tu corazoncito tiene aún más amor guardado." },
   { threshold: 60, title: "¡Hasta las nubes! ☁️", desc: "Un amor gigante que supera el cielo. Gracias por cada sonrisa y cada abrazo tierno." },
   { threshold: 80, title: "¡Hasta la luna de ida y vuelta! 🌙", desc: "Cruzaría todo el universo por ti. Eres mi refugio favorito y mi lugar de paz eterna." },
-  { threshold: 101, title: "¡INFINITO Y MÁS ALLÁ! 🚀❤️", desc: "¡Eres el gran amor de mi vida entera! Gracias por estos maravillosos 17 meses de felicidad, risas y de construir un camino juntos. ¡Te amo con toda mi alma!" },
+  { threshold: 101, title: "¡INFINITO Y MÁS ALLÁ! 🚀❤️", desc: "¡Eres el gran amor de mi vida entera! Gracias por estos maravillosos 4 años de felicidad, risas y de construir un camino juntos. ¡Te amo con toda mi alma!" },
 ];
 
 export default function LoveMeter() {

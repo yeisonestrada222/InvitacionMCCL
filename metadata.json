@@ -1,6 +1,6 @@
 {
   "name": "Invitación de Aniversario",
-  "description": "Una invitación interactiva y romántica para celebrar 17 meses de amor en Sabaneta, con la compañía de Dante.",
+  "description": "Una invitación interactiva y romántica para celebrar 4 años de amor en Sabaneta, con la compañía de Dante.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

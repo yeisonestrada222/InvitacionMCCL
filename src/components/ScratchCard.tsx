@@ -205,7 +205,7 @@ export default function ScratchCard() {
           </h4>
           
           <p className="font-sans text-slate-700 text-[13px] leading-relaxed max-w-sm mb-3">
-            Este 2 de julio cumplimos <strong className="text-rose-600">17 meses juntos</strong>, 17 meses en los que has llenado mi vida entera de luz, de risas incomparables y de la paz más bonita que he sentido jamás.
+            Este 2 de julio cumplimos <strong className="text-rose-600">4 años juntos</strong>, 4 años en los que has llenado mi vida entera de luz, de risas incomparables y de la paz más bonita que he sentido jamás.
           </p>
           
           <p className="font-sans text-slate-700 text-[13px] leading-relaxed max-w-sm">
