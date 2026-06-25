@@ -5,7 +5,6 @@ import EnchantedEnvelope from "./components/EnchantedEnvelope";
 import Countdown from "./components/Countdown";
 import MusicPlayer from "./components/MusicPlayer";
 import SabanetaDetails from "./components/SabanetaDetails";
-import PhotoGallery from "./components/PhotoGallery";
 import LoveMeter from "./components/LoveMeter";
 import ScratchCard from "./components/ScratchCard";
 import Quiz from "./components/Quiz";
@@ -79,11 +78,6 @@ export default function App() {
             {/* SABANETA DETAILS & DANTE */}
             <section id="plan-section" className="w-full">
               <SabanetaDetails />
-            </section>
-
-            {/* DANTE PHOTO GALLERY ALBUM */}
-            <section id="photo-gallery-section" className="w-full">
-              <PhotoGallery />
             </section>
 
             {/* LOVE SLIDER METER */}
